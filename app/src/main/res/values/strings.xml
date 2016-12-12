@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="quastion">Hi! How old are you?</string>
+    <string name="myAge">Write your age here</string>
+    <string name="finish">Done!</string>
+</resources>
